@@ -18,7 +18,7 @@ Currently employed at Zooplus
 
 ### Since 01/2021
 
-_Software Engineer_ @ Zooplus, Munich
+Software Engineer @ _Zooplus, Munich_
 
 **Project:** Internal products for order management and accounting
 
@@ -28,7 +28,7 @@ _Software Engineer_ @ Zooplus, Munich
 
 ### From 03/2019 to 12/2020
 
-_Junior Software Engineer_ @ Zooplus, Munich
+Junior Software Engineer @ _Zooplus, Munich_
 
 **Project:** Internal products for order management and accounting
 
@@ -38,7 +38,7 @@ _Junior Software Engineer_ @ Zooplus, Munich
 
 ### From 06/2018 to 12/2018
 
-_Software Engineer_ @ ItGrow (Critical Software S.A.), Coimbra
+Software Engineer @ _ItGrow (Critical Software S.A.), Coimbra_
 
 **Project:** FinTech solution for fraud prevention and detection tailored to customer requirements.
 
@@ -50,7 +50,7 @@ _Software Engineer_ @ ItGrow (Critical Software S.A.), Coimbra
 
 ### From 02/2017 to 07/2017
 
-_Software Engineer Intern_ @ Ciengis S.A., IPN Coimbra
+Software Engineer Intern* @ \_Ciengis S.A., IPN Coimbra*
 
 **Project:** SaaS module for automated data extraction, analysis and business reporting for integration in broader tool.
 
@@ -62,7 +62,7 @@ _Software Engineer Intern_ @ Ciengis S.A., IPN Coimbra
 
 ### From 11/2009 to 10/2016
 
-_Sales Assistant_ @ Worten S.A., Coimbra
+Sales Assistant @ _Worten S.A., Coimbra_
 
 **Responsibility:** Sales, managing product life and stock.
 
@@ -70,16 +70,28 @@ _Sales Assistant_ @ Worten S.A., Coimbra
 
 ### From 07/2009 to 08/2009
 
-_Intern Developer_ @ MegaWeb Lda, Coimbra
+Intern Developer @ _MegaWeb Lda, Coimbra_
 
 **Project:** Summer project for smart home automation tool using x10 and FOSS technologies.
 
-- Control of electrical devices.
-- Live feed of camera environment.
+- Control of electrical devices via x10.
+- Live feed of webcam to use as security camera.
 - Help design a simple webpage for accessing tool.
 
 **Technologies:** Linux, x10, PHP, Pearl and MySQL.
 
 ## Education
+
+### From 2013 to 2018
+
+**B.Sc., Informatics Engineering**, Instituto Superior de Engenharia de Coimbra, Portugal with specialization in Application Development.
+
+- Scholar Internship: Web Development, Report module to Multiverse Application. @ _Ciengis S.A._
+
+### From 2004
+
+**Integrated Masters in Electrotechnical Engineering**, Universidade de Coimbra, Portugal
+
+- Unfinished
 
 ## Miscellaneous Experience
