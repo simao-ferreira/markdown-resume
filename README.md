@@ -10,7 +10,17 @@
 
 ## Summary
 
+I am a software engineer with around 2+ years of experience, my education revolves mostly towards backend, mainly in object oriented languages like Java, Kotlin and some C++ and tools that envelop it. I have worked and toyed with several other languages but most of my core work has been done in Java.
+
+Until now, my journey as an engineer is based on a hunger for learning, not just academic learning, but also experiencing, travelling and discussing. I am not a professional and structured learning, but learning is what drives me to improve and succeed.
+
 ## Skills
+
+**Coding Languages:** Java, Kotlin, Groovy, Python.
+
+**Coding Tools/Frameworks:** Spring, GIT, SQL, Junit, Spock, Maven, Gradle, IntelliJ.
+
+**Languages:** Native Portuguese, strong reading, writing and speaking competencies for English, basic understanding of German.
 
 ## Employment History
 
@@ -30,9 +40,13 @@ Software Engineer @ _Zooplus, Munich_
 
 Junior Software Engineer @ _Zooplus, Munich_
 
-**Project:** Internal products for order management and accounting
+**Project:** Accounting product, involving booking and reporting
 
-- Design, implement and maintain services using event driven approach
+- Implementation of new functionalities and revolving code
+- reporting project
+- Maintenance, monitoring and fixes for legacy and other existent systems.
+
+for feature implementation using event driven approach
 
 **Technologies:** Mainly Java 8, Java 11, Kotlin, Spring, Spock, Gradle and AWS
 
@@ -50,7 +64,7 @@ Software Engineer @ _ItGrow (Critical Software S.A.), Coimbra_
 
 ### From 02/2017 to 07/2017
 
-Software Engineer Intern* @ \_Ciengis S.A., IPN Coimbra*
+Software Engineer Intern @ _Ciengis S.A., IPN Coimbra_
 
 **Project:** SaaS module for automated data extraction, analysis and business reporting for integration in broader tool.
 
@@ -72,7 +86,7 @@ Sales Assistant @ _Worten S.A., Coimbra_
 
 Intern Developer @ _MegaWeb Lda, Coimbra_
 
-**Project:** Summer project for smart home automation tool using x10 and FOSS technologies.
+**Project:** Summer two person project for smart home automation tool using x10 and FOSS technologies.
 
 - Control of electrical devices via x10.
 - Live feed of webcam to use as security camera.
@@ -88,10 +102,18 @@ Intern Developer @ _MegaWeb Lda, Coimbra_
 
 - Scholar Internship: Web Development, Report module to Multiverse Application. @ _Ciengis S.A._
 
-### From 2004
+### From 2004 to 2008
 
 **Integrated Masters in Electrotechnical Engineering**, Universidade de Coimbra, Portugal
 
-- Unfinished
+- Interrupted
 
 ## Miscellaneous Experience
+
+\begin{rubric}{Miscellaneous Experience}
+\subrubric{Certification}
+**2018] \textbf{\textsc{German} language course A1.1}. by Sprachschule Aktiv, Munich.
+**2014] \textbf{\textsc{Kaisen}}. by Worten S.A., Coimbra.
+\entry\*[2009] \textbf{Pedagogical Starter Course } by CNE - Portuguese Scouts.
+
+\end{rubric}
