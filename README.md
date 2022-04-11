@@ -12,7 +12,8 @@
 
 I am a software engineer with around 2+ years of experience, my education revolves mostly towards backend, mainly in object oriented languages like Java, Kotlin and some C++ and tools that envelop it. I have worked and toyed with several other languages but most of my core work has been done in Java.
 
-Until now, my journey as an engineer is based on a hunger for learning, not just academic learning, but also experiencing, travelling and discussing. I am not a professional and structured learning, but learning is what drives me to improve and succeed.
+Until now, my journey as an engineer is based on a hunger for learning.
+Learning and improving is what drives me to succeed.
 
 ## Skills
 
@@ -33,6 +34,7 @@ Software Engineer @ _Zooplus, Munich_
 **Project:** Internal products for order management and accounting
 
 - Design, implement and maintain services using event driven approach
+- Analysis of new features
 
 **Technologies:** Mainly Java 8, Java 11, Kotlin, Spring, Spock, Gradle and AWS
 
@@ -42,11 +44,10 @@ Junior Software Engineer @ _Zooplus, Munich_
 
 **Project:** Accounting product, involving booking and reporting
 
-- Implementation of new functionalities and revolving code
-- reporting project
+- Implementation of new functionalities
+- Reporting project
 - Maintenance, monitoring and fixes for legacy and other existent systems.
-
-for feature implementation using event driven approach
+- Feature implementation using event driven approach
 
 **Technologies:** Mainly Java 8, Java 11, Kotlin, Spring, Spock, Gradle and AWS
 
@@ -89,8 +90,8 @@ Intern Developer @ _MegaWeb Lda, Coimbra_
 **Project:** Summer two person project for smart home automation tool using x10 and FOSS technologies.
 
 - Control of electrical devices via x10.
-- Live feed of webcam to use as security camera.
-- Help design a simple webpage for accessing tool.
+- Security cam feed via ethernet webcam.
+- Design a simple webpage for accessing tool.
 
 **Technologies:** Linux, x10, PHP, Pearl and MySQL.
 
@@ -110,10 +111,7 @@ Intern Developer @ _MegaWeb Lda, Coimbra_
 
 ## Miscellaneous Experience
 
-\begin{rubric}{Miscellaneous Experience}
-\subrubric{Certification}
-**2018] \textbf{\textsc{German} language course A1.1}. by Sprachschule Aktiv, Munich.
-**2014] \textbf{\textsc{Kaisen}}. by Worten S.A., Coimbra.
-\entry\*[2009] \textbf{Pedagogical Starter Course } by CNE - Portuguese Scouts.
-
-\end{rubric}
+**Certification**
+**2018 - German** language course A1.1 by Sprachschule Aktiv, Munich.
+**2014 - Kaisen** by Worten S.A., Coimbra.
+**2009 - Pedagogical Starter Course** by CNE - Portuguese Scouts.
