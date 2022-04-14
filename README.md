@@ -91,7 +91,7 @@ $ pip-compile --upgrade-package <package-name>==<version>
 Run default
 
 ```shell
-$ python3 build_pdf_resume.py
+$ python3 create_pdf.py
 ```
 
 Run with selected style
