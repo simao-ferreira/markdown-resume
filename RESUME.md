@@ -10,10 +10,14 @@
 
 ## Summary
 
-I am a software engineer with around 2+ years of experience, my education revolves mostly towards backend, mainly in object oriented languages like Java, Kotlin and some C++ and tools that envelop it. I have worked and toyed with several other languages but most of my core work has been done in Java.
+I am a Software Engineer. I have an inquisitive nature and enjoy solving problems and keeping my brain active and
+challenged.
 
-Until now, my journey as an engineer is based on a hunger for learning.
-Learning and improving is what drives me to succeed.
+I've worked mainly in Java environment, in different tools and frameworks like Kotlin, Groovy, Spring, Gradle
+and many other common catchy sounding technologies. There are a lot of other tools I have one way or another interacted,
+like Python, Docker or AWS, Oracle and PostgreSQL.
+
+I enjoy testing and monitoring, sometimes half of the fun is finding Wally (Bug!)
 
 ## Skills
 
@@ -21,7 +25,8 @@ Learning and improving is what drives me to succeed.
 
 **Coding Tools/Frameworks:** Spring, GIT, SQL, Junit, Spock, Maven, Gradle, IntelliJ.
 
-**Languages:** Native Portuguese, strong reading, writing and speaking competencies for English, basic understanding of German.
+**Languages:** Strong reading, writing and speaking competencies for English, basic understanding of
+German, native Portuguese,.
 
 ## Employment History
 
@@ -33,10 +38,10 @@ Software Engineer @ _Zooplus, Munich_
 
 **Project:** Internal products for order management and accounting
 
-- Design, implement and maintain services using event driven approach
-- Analysis of new features
+- Design, implement, test and maintain services using event driven approach
+- Analysis and documentation of new features
 
-**Technologies:** Mainly Java 8, Java 11, Kotlin, Spring, Spock, Gradle and AWS
+**Technologies:** Mainly Java, Kotlin, Spring, Spock, Docker, Gradle and AWS
 
 ### From 03/2019 to 12/2020
 
@@ -44,10 +49,9 @@ Junior Software Engineer @ _Zooplus, Munich_
 
 **Project:** Accounting product, involving booking and reporting
 
-- Implementation of new functionalities
-- Reporting project
-- Maintenance, monitoring and fixes for legacy and other existent systems.
-- Feature implementation using event driven approach
+- Implement and test new functionalities
+- Maintenance, monitoring and fix existent system
+- Maintenance and improvement of legacy systems.
 
 **Technologies:** Mainly Java 8, Java 11, Kotlin, Spring, Spock, Gradle and AWS
 
@@ -59,7 +63,7 @@ Software Engineer @ _ItGrow (Critical Software S.A.), Coimbra_
 
 - Maintenance and monitoring of existent systems.
 - Improvement and addition of functionality per customer requirement.
-- Q&A improvement.
+- Improvement of testing suite.
 
 **Technologies:** Mainly Java 8, Oracle, Docker, Agile, Mockito and Cucumber.
 
@@ -99,7 +103,8 @@ Intern Developer @ _MegaWeb Lda, Coimbra_
 
 ### From 2013 to 2018
 
-**B.Sc., Informatics Engineering**, Instituto Superior de Engenharia de Coimbra, Portugal with specialization in Application Development.
+**B.Sc., Informatics Engineering**, Instituto Superior de Engenharia de Coimbra, Portugal with specialization in
+Application Development.
 
 - Scholar Internship: Web Development, Report module to Multiverse Application. @ _Ciengis S.A._
 
@@ -112,6 +117,9 @@ Intern Developer @ _MegaWeb Lda, Coimbra_
 ## Miscellaneous Experience
 
 **Certification**
+
 **2018 - German** language course A1.1 by Sprachschule Aktiv, Munich.
+
 **2014 - Kaisen** by Worten S.A., Coimbra.
+
 **2009 - Pedagogical Starter Course** by CNE - Portuguese Scouts.
