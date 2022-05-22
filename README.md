@@ -1,15 +1,32 @@
 # Markdown resume
 
+This is a simple script to build a pdf resume based on a markdown file and css style.
+It looks for a `RESUME.md` file in current package, loads a css file from styles folder and outputs a pdf file to output
+folder.
+
+A style can be given as argument, if not will default to a [simple style](styles/simple-style.css)
+
+The core of the work is done by the package [md2pdf](https://github.com/jmaupetit/md2pdf).
+
+The resume markdown file can be found [here](resume/RESUME.md)
+
+*WARNING* this is a work in progress
+
+# Instructions
+
 - [how-to](#how-to)
     - [environment](#environment)
     - [requirements](#requirements)
-      - [pip freeze](#pip-freeze)
-      - [pip tools](#pip-tools)
+        - [pip freeze](#pip-freeze)
+        - [pip tools](#pip-tools)
     - [run](#run)
     - [tests](#tests)
-- [technologies](#technologies)
 
 ## How to
+
+You can run this project with the following instructions, preferably running a virtual environment.
+If running on MacOSX please be aware of the
+following [issues](https://github.com/jmaupetit/md2pdf#troubleshooting-on-macosx)
 
 ### Environment
 
@@ -71,15 +88,16 @@ $ pip-compile --upgrade-package <package-name>==<version>
 
 ### Run
 
+Run default
+
 ```shell
-# Main
-$ python main.py
+$ python3 build_pdf_resume.py
+```
 
-# Scratch files
-$ python <module>/<folder>/create_argument_filtered_csv.py <argument>
+Run with selected style
 
-# Module files
-$ python -m <module>.<folder>.file
+```shell
+$ python3 build_pdf_resume.py styles/bar-style.css
 ```
 
 ### Tests
@@ -91,9 +109,3 @@ $ pytest
 # Run class test
 $ pytest tests/<test_file_name>.py
 ```
-
-### Technologies
-
-* Python3
-* Markdown
-* [md2pdf](https://github.com/jmaupetit/md2pdf)

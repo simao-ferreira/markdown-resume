@@ -18,12 +18,15 @@ def build_pdf_filepath():
     return f'output/resume-{timestamp}.pdf'
 
 
-css_file_path = set_appearance()
-pdf_file_path = build_pdf_filepath()
-resume_path = 'RESUME.md'
+def pdf_resume():
+    css_file_path = set_appearance()
+    pdf_file_path = build_pdf_filepath()
+    resume_path = 'resume/RESUME.md'
+    md2pdf(pdf_file_path,
+           md_content=None,
+           md_file_path=resume_path,
+           css_file_path=css_file_path,
+           base_url=None)
 
-md2pdf(pdf_file_path,
-       md_content=None,
-       md_file_path=resume_path,
-       css_file_path=css_file_path,
-       base_url=None)
+
+pdf_resume()
