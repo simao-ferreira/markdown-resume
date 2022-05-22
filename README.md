@@ -1,16 +1,18 @@
 # Markdown resume
 
 This is a simple script to build a pdf resume based on a markdown file and css style.
-It looks for a `RESUME.md` file in current package, loads a css file from styles folder and outputs a pdf file to output
+It looks for a `RESUME.md` file, loads a css file from styles folder and generates or overrides a pdf file to output
 folder.
 
-A style can be given as argument, if not will default to a [simple style](styles/simple-style.css)
-
-The core of the work is done by the package [md2pdf](https://github.com/jmaupetit/md2pdf).
+A style can be given as argument, if not will default to a [simple style](styles/simple-style.css).
 
 The resume markdown file can be found [here](resume/RESUME.md)
 
 *WARNING* this is a work in progress
+
+## Credits
+
+The core of the work is done by the package [md2pdf](https://github.com/jmaupetit/md2pdf).
 
 # Instructions
 
