@@ -6,7 +6,7 @@
 
 **Email:** simao.ferreira@tuta.io
 
-**Linkedin** https://www.linkedin.com/in/ferreirasimao
+**Linkedin** [https://www.linkedin.com/in/ferreirasimao](https://www.linkedin.com/in/ferreirasimao)
 
 **Nationality:** Portugal
 
@@ -31,30 +31,17 @@ German, native Portuguese,.
 
 ## Employment History
 
-Currently employed at Zooplus
-
-### Since 01/2021
+### Since 03/2019
 
 Software Engineer @ _Zooplus, Munich_
 
-**Project:** Internal products for order management and accounting
+**Project:** Internal products for accounting, financial booking, reporting and order management
 
-- Designing, implementing, testing and maintain services using event driven approach
-- Analysis and documentation of new features
+- Designing, implementing and testing new features for microservices.
+- Maintaining and monitoring existent system.
+- Analysis and documentation of new functionalities.
 
 **Technologies:** Mainly Java, Kotlin, Spring, Spock, Docker, Gradle and AWS
-
-### From 03/2019 to 12/2020
-
-Junior Software Engineer @ _Zooplus, Munich_
-
-**Project:** Accounting product, involving booking and reporting
-
-- Implementing and testing new functionalities
-- Maintenance, monitoring and fix existent system
-- Maintenance and improvement of legacy systems.
-
-**Technologies:** Mainly Java 8, Java 11, Kotlin, Spring, Spock, Gradle and AWS
 
 ### From 06/2018 to 12/2018
 
