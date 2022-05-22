@@ -6,18 +6,19 @@
 
 **Email:** simao.ferreira@tuta.io
 
+**Linkedin** https://www.linkedin.com/in/ferreirasimao
+
 **Nationality:** Portugal
 
 ## Summary
 
-I am a Software Engineer. I have an inquisitive nature and enjoy solving problems and keeping my brain active and
-challenged.
+I am a Software Engineer. I have an inquisitive nature, I enjoy solving problems and keeping my brain challenged.
 
 I've worked mainly in Java environment, in different tools and frameworks like Kotlin, Groovy, Spring, Gradle
-and many other common catchy sounding technologies. There are a lot of other tools I have one way or another interacted,
+and many other related technologies. There are a lot of other tools I have one way or another interacted,
 like Python, Docker or AWS, Oracle and PostgreSQL.
 
-I enjoy testing and monitoring, sometimes half of the fun is finding Wally (Bug!)
+I enjoy testing and monitoring, I find that sometimes half of the fun is finding Wally (the bug!)
 
 ## Skills
 
@@ -38,7 +39,7 @@ Software Engineer @ _Zooplus, Munich_
 
 **Project:** Internal products for order management and accounting
 
-- Design, implement, test and maintain services using event driven approach
+- Designing, implementing, testing and maintain services using event driven approach
 - Analysis and documentation of new features
 
 **Technologies:** Mainly Java, Kotlin, Spring, Spock, Docker, Gradle and AWS
@@ -49,7 +50,7 @@ Junior Software Engineer @ _Zooplus, Munich_
 
 **Project:** Accounting product, involving booking and reporting
 
-- Implement and test new functionalities
+- Implementing and testing new functionalities
 - Maintenance, monitoring and fix existent system
 - Maintenance and improvement of legacy systems.
 
@@ -61,9 +62,9 @@ Software Engineer @ _ItGrow (Critical Software S.A.), Coimbra_
 
 **Project:** FinTech solution for fraud prevention and detection tailored to customer requirements.
 
-- Maintenance and monitoring of existent systems.
-- Improvement and addition of functionality per customer requirement.
-- Improvement of testing suite.
+- Maintaining and monitoring of existent systems.
+- Improving and adding of functionality per customer requirement.
+- Improving testing suite.
 
 **Technologies:** Mainly Java 8, Oracle, Docker, Agile, Mockito and Cucumber.
 
@@ -75,7 +76,7 @@ Software Engineer Intern @ _Ciengis S.A., IPN Coimbra_
 
 - Backend design and implementation including RESTful API.
 - Frontend implementation according to UX guidelines
-- Quality assurance, unit testing, service integration and customer interview
+- Quality assurance, unit testing, service integration and customer interviews
 
 **Technologies:** Mainly Java 8, Spring Framework, GWT, Hibernate, Junit, Mockito.
 
@@ -91,11 +92,11 @@ Sales Assistant @ _Worten S.A., Coimbra_
 
 Intern Developer @ _MegaWeb Lda, Coimbra_
 
-**Project:** Summer two person project for smart home automation tool using x10 and FOSS technologies.
+**Project:** Summer project for smart home automation tool using x10 and FOSS technologies.
 
 - Control of electrical devices via x10.
 - Security cam feed via ethernet webcam.
-- Design a simple webpage for accessing tool.
+- Design a simple webpage for accessing the tool.
 
 **Technologies:** Linux, x10, PHP, Pearl and MySQL.
 
